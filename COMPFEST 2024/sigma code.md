@@ -1,6 +1,4 @@
-# CTF Writeup: [CTF Event Name]
-
-## Challenge Name
+# Sigma Code
 
 - Category: Misc
 - Points: 100
