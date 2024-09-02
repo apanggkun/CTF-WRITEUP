@@ -1,6 +1,6 @@
-# CTF Writeup Template
 
-## Industrialspy 3
+
+# Industrialspy 3
 
 - Category: Forensics
 - Points: 100
@@ -13,10 +13,12 @@ If you have figured it out. Submit your report to nc challenges.ctf.compfest.id 
 jadi ini adalah chall forensic dalam bentuk pcapng
 
 oke jadi pertama tama kita cek dulu apa yang akan di tanya. kita coba akses nc nya
-![alt text](image.png)
-untuk mengecek open port pada pcapng file bisa menggunakan `Wireshark` atau pake website [Apackets](https://apackets.com/upload) untuk melakukan .pcapng analysis
 
-kita tinggal check open ports di websitenya
+![alt text](image.png)
+
+untuk mengecek open port pada pcapng file bisa menggunakan `Wireshark` atau pake website [Apackets](https://apackets.com/upload) 
+
+untuk melakukan .pcapng analysis kita tinggal check open ports di websitenya
 ![alt text](image-1.png)
 
 ada 2 doang bjirr `22` dan `5432`
